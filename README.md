@@ -2,6 +2,8 @@
 
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)  ![React](https://img.shields.io/badge/react-18.3.1-61DAFB?logo=react)  [![TypeScript](https://img.shields.io/badge/typescript-5.5.3-3178C6?logo=typescript)](https://www.typescriptlang.org/)  [![Vite](https://img.shields.io/badge/vite-5.4.2-646CFF?logo=vite)](https://vitejs.dev/)  [![Tailwind CSS](https://img.shields.io/badge/tailwindcss-3.4.1-38B2AC?logo=tailwind-css)](https://tailwindcss.com/)
 
+
+
 A modern task management application with Kanban board and integrated Pomodoro timer.   Built with React and TypeScript for optimal productivity.
 
 ## Features
@@ -14,6 +16,9 @@ A modern task management application with Kanban board and integrated Pomodoro t
 - Persistent storage
 - Task descriptions and timestamps
 - Sound notifications for completed timers
+
+![Task Board](public/images/taskboard.png)
+
 
 ## Quick Start
 
